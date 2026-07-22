@@ -1,0 +1,223 @@
+----------------------------------------
+Bus voltage (V): 3.312
+Current (mA): -1.200
+Power (mW): 4.000
+Temperature (C): 30.69
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x17 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:4640
+load:0x40078000,len:15620
+ho 0 tail 12 room 4
+load:0x40080400,len:3164
+entry 0x4008059c
+AEGIS Node 1 test started
+Reading INA219 and DS18B20...
+----------------------------------------
+Bus voltage (V): 3.316
+Current (mA): 0.700
+Power (mW): 4.000
+Temperature (C): 30.69
+----------------------------------------
+Bus voltage (V): 3.316
+Current (mA): 0.300
+Power (mW): 4.000
+Temperature (C): 30.75
+----------------------------------------
+Bus voltage (V): 3.312
+Current (mA): 0.600
+Power (mW): 4.000
+Temperature (C): 30.75
+----------------------------------------
+Bus voltage (V): 3.316
+Current (mA): 0.200
+Power (mW): 4.000
+Temperature (C): 30.75
+----------------------------------------
+Bus voltage (V): 3.316
+Current (mA): 0.600
+Power (mW): 4.000
+Temperature (C): 30.75
+----------------------------------------
+Bus voltage (V): 3.316
+Current (mA): 0.300
+Power (mW): 0.000
+Temperature (C): 30.75
+----------------------------------------
+Bus voltage (V): 3.320
+Current (mA): 0.500
+Power (mW): 4.000
+Temperature (C): 30.75
+----------------------------------------
+Bus voltage (V): 3.316
+Current (mA): 0.400
+Power (mW): 0.000
+Temperature (C): 30.75
+----------------------------------------
+Bus voltage (V): 3.316
+Current (mA): 0.500
+Power (mW): 4.000
+Temperature (C): 30.69
+----------------------------------------
+Bus voltage (V): 3.316
+Current (mA): 0.600
+Power (mW): 0.000
+Temperature (C): 30.75
+----------------------------------------
+Bus voltage (V): 3.316
+Current (mA): 0.300
+Power (mW): 0.000
+Temperature (C): 30.75
+----------------------------------------
+Bus voltage (V): 3.316
+Current (mA): 0.700
+Power (mW): 4.000
+Temperature (C): 30.75
+----------------------------------------
+Bus voltage (V): 3.316
+Current (mA): 0.600
+Power (mW): 4.000
+Temperature (C): 30.69
+----------------------------------------
+Bus voltage (V): 3.316
+Current (mA): 0.400
+Power (mW): 0.000
+Temperature (C): 30.75
+----------------------------------------
+Bus voltage (V): 3.316
+Current (mA): 0.600
+Power (mW): 4.000
+Temperature (C): 30.75
+----------------------------------------
+Bus voltage (V): 3.312
+Current (mA): -1.400
+Power (mW): 4.000
+Temperature (C): 30.69
+----------------------------------------
+Bus voltage (V): 3.320
+Current (mA): 0.400
+Power (mW): 0.000
+Temperature (C): 30.75
+----------------------------------------
+Bus voltage (V): 3.316
+Current (mA): 0.500
+Power (mW): 4.000
+Temperature (C): 30.75
+----------------------------------------
+Bus voltage (V): 3.312
+Current (mA): 0.700
+Power (mW): 4.000
+Temperature (C): 30.75
+----------------------------------------
+Bus voltage (V): 3.312
+Current (mA): 0.000
+Power (mW): 0.000
+Temperature (C): 30.69
+----------------------------------------
+Bus voltage (V): 3.316
+Current (mA): 0.700
+Power (mW): 4.000
+Temperature (C): 30.75
+----------------------------------------
+Bus voltage (V): 3.316
+Current (mA): 0.200
+Power (mW): 0.000
+Temperature (C): 30.75
+----------------------------------------
+Bus voltage (V): 3.316
+Current (mA): 0.300
+Power (mW): 4.000
+Temperature (C): 30.75
+----------------------------------------
+Bus voltage (V): 3.316
+Current (mA): 0.400
+Power (mW): 4.000
+Temperature (C): 30.69
+----------------------------------------
+Bus voltage (V): 3.316
+Current (mA): 0.700
+Power (mW): 4.000
+Temperature (C): 30.75
+----------------------------------------
+Bus voltage (V): 3.316
+Current (mA): 0.600
+Power (mW): 4.000
+Temperature (C): 30.69
+----------------------------------------
+Bus voltage (V): 3.316
+Current (mA): 0.200
+Power (mW): 4.000
+Temperature (C): 30.75
+----------------------------------------
+Bus voltage (V): 3.316
+Current (mA): 0.300
+Power (mW): 4.000
+Temperature (C): 30.75
+----------------------------------------
+Bus voltage (V): 3.316
+Current (mA): 0.600
+Power (mW): 4.000
+Temperature (C): 30.75
+----------------------------------------
+Bus voltage (V): 3.316
+Current (mA): 0.500
+Power (mW): 4.000
+Temperature (C): 30.69
+----------------------------------------
+Bus voltage (V): 3.316
+Current (mA): 0.700
+Power (mW): 4.000
+Temperature (C): 30.75
+----------------------------------------
+Bus voltage (V): 3.316
+Current (mA): 0.500
+Power (mW): 0.000
+Temperature (C): 30.75
+----------------------------------------
+Bus voltage (V): 3.316
+Current (mA): 0.200
+Power (mW): 4.000
+Temperature (C): 30.75
+----------------------------------------
+Bus voltage (V): 3.316
+Current (mA): 0.500
+Power (mW): 4.000
+Temperature (C): 30.69
+----------------------------------------
+Bus voltage (V): 3.316
+Current (mA): 0.600
+Power (mW): 4.000
+Temperature (C): 30.69
+----------------------------------------
+Bus voltage (V): 3.312
+Current (mA): 0.500
+Power (mW): 4.000
+Temperature (C): 30.69
+----------------------------------------
+Bus voltage (V): 3.316
+Current (mA): 0.700
+Power (mW): 4.000
+Temperature (C): 30.75
+----------------------------------------
+Bus voltage (V): 3.316
+Current (mA): 0.300
+Power (mW): 4.000
+Temperature (C): 30.69
+----------------------------------------
+Bus voltage (V): 3.312
+Current (mA): 0.400
+Power (mW): 4.000
+Temperature (C): 30.69
+----------------------------------------
+Bus voltage (V): 3.312
+Current (mA): 0.700
+Power (mW): 4.000
+Temperature (C): 30.75
+----------------------------------------
+Bus voltage (V): 3.308
+Current (mA): 4.100
+Power (mW): 14.000
+Temperature (C): 30.75

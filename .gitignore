@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large datasets
+data/
+!data/README.md
+
+# Trained models
+models/
+!models/README.md
+
+# Generated outputs
+results/
+tables/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+dashboard/dashboardv2.py
