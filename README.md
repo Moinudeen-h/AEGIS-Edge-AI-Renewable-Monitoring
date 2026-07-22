@@ -273,8 +273,7 @@ AEGIS-Edge-AI-Renewable-Monitoring/
 ├── 07_quantization_edge_eval.ipynb
 ├── 08_esp32_live_validation.ipynb
 ├── 09_figures_tables.ipynb
-│
-└── setup_aegis_structure.py
+
 
 ````
 
