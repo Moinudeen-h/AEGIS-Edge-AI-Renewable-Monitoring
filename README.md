@@ -1,7 +1,7 @@
 # ⚡ AEGIS  
 ## Autonomous Energy Grid Intelligence System
 
-AEGIS is an Edge AI-based renewable energy monitoring and predictive maintenance platform developed for intelligent, autonomous monitoring of distributed renewable energy systems.
+AEGIS is an Edge AI-based renewable energy monitoring and predictive monitoring platform developed for intelligent, autonomous monitoring of distributed renewable energy systems.
 
 The system combines **ESP32-based edge computing, TensorFlow Lite anomaly detection, federated learning concepts, real-time sensor monitoring, and gesture-controlled human–machine interaction** to enable efficient and reliable renewable energy asset management.
 
@@ -15,7 +15,7 @@ Renewable energy systems such as solar panels and wind turbines require continuo
 
 Traditional monitoring solutions often rely on cloud-based processing, creating challenges in remote locations due to connectivity limitations, latency, and privacy concerns.
 
-AEGIS addresses these challenges by implementing an **edge intelligence architecture**, where machine learning models operate locally on ESP32 microcontrollers for real-time anomaly detection without requiring cloud dependency.
+AEGIS addresses these challenges by implementing an **edge intelligence architecture**, where machine learning models are designed for local operation on ESP32 microcontrollers and validated through embedded prototype testing for real-time anomaly detection without requiring cloud dependency.
 
 The system consists of two autonomous monitoring nodes:
 
@@ -67,34 +67,7 @@ The system monitors renewable energy parameters including:
 
 # System Architecture
 
-```
-
-Renewable Energy Sources
-|
-|
--
-
-|                     |
-Wind Node            Solar Node
-ESP32                ESP32
-Sensors              Sensors
-|                     |
-|                     |
-TensorFlow Lite   TensorFlow Lite
-Edge AI Model     Edge AI Model
-|                     |
------------------------
-
-```
-      |
-      |
-```
-
-Real-Time Dashboard
-|
-Gesture Controlled Interface
-
-```
+![AEGIS System Architecture](figures/AEGIS_System_Architecture.png)
 
 ---
 
@@ -136,7 +109,7 @@ The Autoencoder learns normal operating behaviour and identifies abnormal condit
 
 AEGIS explores federated learning for distributed renewable energy monitoring.
 
-Instead of transferring raw operational data, individual edge nodes train locally and share model updates.
+Instead of transferring raw operational data, simulated edge nodes train locally and model aggregation experiments are performed to evaluate federated learning feasibility.
 
 Advantages:
 
@@ -351,11 +324,14 @@ Possible future extensions include:
 
 ---
 
-# Author
+## Author
 
 **Mohamed Khaja Moinudeen**
-BEng (Hons) Electrical and Electronic Engineering
+
+BEng (Hons) Electrical and Electronic Engineering  
 University of the West of England (UWE Bristol)
+
+Final Year Project: AEGIS
 
 Final Year Project
 AEGIS - Autonomous Energy Grid Intelligence System
