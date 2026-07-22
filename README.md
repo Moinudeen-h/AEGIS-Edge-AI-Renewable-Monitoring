@@ -330,7 +330,5 @@ Possible future extensions include:
 BEng (Hons) Electrical and Electronic Engineering  
 University of the West of England (UWE Bristol)
 
-Final Year Project: AEGIS
-
 Final Year Project
 AEGIS - Autonomous Energy Grid Intelligence System
